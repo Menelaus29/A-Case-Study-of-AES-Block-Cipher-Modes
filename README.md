@@ -1,4 +1,4 @@
-# Experimental Study of AES Block Cipher Modes
+# A Case Study of AES Block Cipher Modes
 ## Overview
 
 This project presents a case study of AES encryption in different modes of operation, specifically ECB and CBC, using Python. By comparing the insecure ECB mode and the secure CBC mode, it aims to 
